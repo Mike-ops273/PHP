@@ -1,9 +1,8 @@
 <?php 
 
-$name = "Mira";
+$nimi = "Mira";
 $age = 28;
 
-echo "Nimeni on " .$name. " ja olen " .$age. " vuotta."
+echo "Nimeni on $nimi ja olen $age vuotta.";
 
 ?>
-

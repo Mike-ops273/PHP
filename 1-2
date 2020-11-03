@@ -1,12 +1,8 @@
-<?php
+<?php 
 
 $letters = "Hello";
-$numbers = 589;
+$number = 589;
 $decimal = 50.95;
-$array(
-0 => A,
-1 => B, 
-2 => C
-)
+$table = array("0" => 'A', "1" => 'B', "2" => 'C'); 
 
 ?>
